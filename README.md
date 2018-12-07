@@ -35,4 +35,8 @@ These are the things you need to know before starting this assignment -
 
 ### Objective
 
-Create a script that connects to the REST Countries API and requests the list of the world's countries.
+Create a script that connects to the [REST Countries API](https://restcountries.eu/) and requests the list of the world's countries. After receiving the list, the script will **add 1 key-value pair** to each one of the returned countries' JSON dictionaries in the following format:
+
+    "flag_url": "[THE_FLAG_URL]"
+
+Where `[THE_FLAG_URL]` is an actual URL address of a PNG file of the country's flag - you can use [Country Flags API](https://countryflags.io/) to get the images of the countries' flags.
