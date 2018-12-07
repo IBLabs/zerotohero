@@ -1,6 +1,6 @@
 # Niran: Zero to Hero
 
-[https://i.ibb.co/ZhSjWkk/niran-header.png][Niran Dishi]
+![Niran Dishi](https://i.ibb.co/ZhSjWkk/niran-header.png)
 
 Welcome to Niran's "Zero to Hero" exercise! We're going to get you froma simple Python student to an awesome developer in no-time! Provided you follow the instructions and stay motivated!
 
