@@ -1,5 +1,7 @@
 # Niran: Zero to Hero
 
+[https://i.ibb.co/ZhSjWkk/niran-header.png][Niran Dishi]
+
 Welcome to Niran's "Zero to Hero" exercise! We're going to get you froma simple Python student to an awesome developer in no-time! Provided you follow the instructions and stay motivated!
 
 ## Assignment 1: Capital Cities
@@ -11,15 +13,19 @@ In this 1st assignment we are going to familiar with some basic real-world pytho
 These are the things you need to know before starting this assignment -
 
   * HTTP Requests
-    * What is an HTTP requests?
+    * What is an HTTP request?
     * What are the different types of HTTP requests? (GET, POST etc.)
-    * Specifically, what is a POST request?
-    * Specifically, what is a GET request?
+    * Specifically, what is a **POST** request?
+    * Specifically, what is a **GET** request?
     * What is the difference between GET and post REQUESTS?
   * JSON
     * What is JSON?
-    * What is the structure of JSON?
+    * What is the structure of a JSON object?
   * Python File Manipulation
-    * How do you **create** a *text* file in python?
+    * How do you **create** a text file in python?
     * How do you **delete** a file in python?
     * How do you **rename** a file in python
+
+### Objective
+
+Create a script that connects to the REST Countries API and requests the list of the world's countries.
