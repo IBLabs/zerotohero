@@ -17,14 +17,14 @@ These are the things you need to know before starting this assignment -
     * What are the different types of HTTP requests? (GET, POST etc.)
     * Specifically, what is a **POST** request?
     * Specifically, what is a **GET** request?
-    * What is the difference between GET and post REQUESTS? [**Read More**](https://www.w3schools.com/tags/ref_httpmethods.asp)
+    * What is the difference between GET and post requests? [Read More](https://www.w3schools.com/tags/ref_httpmethods.asp)
   * JSON
-    * What is JSON?
+    * What is JSON? [Read More](https://www.w3schools.com/js/js_json_intro.asp)
     * What is the structure of a JSON object?
   * Python File Manipulation
-    * How do you **create** a text file in python?
-    * How do you **delete** a file in python?
-    * How do you **rename** a file in python
+    * How do you **create** a text file in python? [Read More](https://stackoverflow.com/questions/48959098/how-to-create-a-new-text-file-using-python)
+    * How do you **delete** a file in python? [Read More](https://stackoverflow.com/questions/6996603/delete-a-file-or-folder)
+    * How do you **rename** a file in python [Read More](https://stackoverflow.com/questions/2491222/how-to-rename-a-file-using-python)
 
 ### Objective
 
