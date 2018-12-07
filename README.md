@@ -40,3 +40,12 @@ Create a script that connects to the [REST Countries API](https://restcountries.
     "flag_url": "[THE_FLAG_URL]"
 
 Where `[THE_FLAG_URL]` is an actual URL address of a PNG file of the country's flag - you can use [Country Flags API](https://countryflags.io/) to get the images of the countries' flags.
+
+#### What Should I Do?
+
+Now we will list the steps you should perform to create the following script, make sure to follow the instructions slowly, and if you get stuck, just give me a call!
+
+  * **Step 1:** Create a python script that requests the list of countries from the [REST Countries API](https://restcountries.eu/) and prints it to the console
+  * **Step 2:** Coming soon...
+
+здоровье! (which is 'Cheers' in Russian 😂)
