@@ -17,7 +17,7 @@ These are the things you need to know before starting this assignment -
     * What are the different types of HTTP requests? (GET, POST etc.)
     * Specifically, what is a **POST** request?
     * Specifically, what is a **GET** request?
-    * What is the difference between GET and post REQUESTS?
+    * What is the difference between GET and post REQUESTS? [**Read More**](https://www.w3schools.com/tags/ref_httpmethods.asp)
   * JSON
     * What is JSON?
     * What is the structure of a JSON object?
