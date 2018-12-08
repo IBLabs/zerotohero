@@ -49,3 +49,5 @@ Now we will list the steps you should perform to create the following script, ma
   * **Step 2:** Coming soon...
 
 здоровье! (which is 'Cheers' in Russian 😂)
+
+This is just a test
