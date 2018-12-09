@@ -45,9 +45,9 @@ Where `[THE_FLAG_URL]` is an actual URL address of a PNG file of the country's f
 
 Now we will list the steps you should perform to create the following script, make sure to follow the instructions slowly, and if you get stuck, just give me a call!
 
-  * ~~**Step 1:** Create a python script that requests the list of countries from the [REST Countries API](https://restcountries.eu/) and prints it to the console~~
-  * **Step 2:** Coming soon...
+  * **Completed!** ✅ ~~**Step 1:** Create a python script that requests the list of countries from the [REST Countries API](https://restcountries.eu/) and prints it to the console~~
+  * **Step 2:** Each country inside the received JSON dictionary has an Alpha 2 code, parse the response into a python dictionary and print *only* the Alpha 2 codes of the countries from the received JSON
+    * **Step 2.1:** *Instead* of printing the Alpha 2 codes, save them to a text file named `alpha2codes.txt`
+  * **Step 3:** Coming soon...
 
 здоровье! (which is 'Cheers' in Russian 😂)
-
-This is just a test
